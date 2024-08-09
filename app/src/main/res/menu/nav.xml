@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/createnav"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:title="Create" />
+    <item
+        android:id="@+id/Readitem"
+        android:icon="@android:drawable/ic_lock_idle_low_battery"
+        android:title="Read" />
+    <item
+        android:id="@+id/updatenav"
+        android:icon="@android:drawable/stat_sys_vp_phone_call"
+        android:title="Update" />
+    <item
+        android:id="@+id/deletenav"
+        android:icon="@android:drawable/star_big_on"
+        android:title="Delete" />
+</menu>
